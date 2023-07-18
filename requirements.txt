@@ -40,7 +40,6 @@ google-auth=2.17.2=pypi_0
 google-auth-oauthlib=0.4.6=pypi_0
 google-pasta=0.2.0=pypi_0
 googleapis-common-protos=1.59.0=pypi_0
-grpcio=1.53.0=pypi_0
 h5py=3.8.0=pypi_0
 idna=3.4=pypi_0
 importlib-metadata=6.3.0=pypi_0
